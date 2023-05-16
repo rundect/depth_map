@@ -3,3 +3,4 @@ laspy
 pyntcloud
 open3d
 matplotlib
+xmltodict
